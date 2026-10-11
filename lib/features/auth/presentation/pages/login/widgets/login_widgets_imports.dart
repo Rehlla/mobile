@@ -1,0 +1,19 @@
+import 'package:auto_route/auto_route.dart';
+import 'package:flutter/material.dart';
+import 'package:rehla/core/constants/gaps.dart';
+import 'package:rehla/core/helpers/validator.dart';
+import 'package:rehla/core/localization/translate.dart';
+import 'package:rehla/core/routes/router_imports.gr.dart';
+import 'package:rehla/core/theme/app_spacing.dart';
+import 'package:rehla/core/theme/colors/colors_extension.dart';
+import 'package:rehla/core/theme/text/app_text_style.dart';
+import 'package:rehla/core/widgets/GenericTextField.dart';
+import 'package:rehla/core/widgets/LoadingButton.dart';
+import 'package:rehla/features/auth/presentation/pages/login/login_imports.dart';
+import 'package:rehla/features/auth/presentation/widgets/build_auth_chrome.dart';
+import 'package:rehla/core/widgets/app_icon.dart';
+
+part 'build_login_form.dart';
+part 'build_login_button.dart';
+part 'build_forget_password_view.dart';
+part 'build_login_footer.dart';

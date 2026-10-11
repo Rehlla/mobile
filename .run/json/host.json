@@ -1,0 +1,9 @@
+{
+  "APP_ID": "app.rehla.host",
+  "APP_BASE_URL": "https://define-inline-egg-ago.trycloudflare.com/",
+  "APP_ENV_NAME": "host",
+  "APP_API": "api/",
+  "APP_APP_NAME_EN": "REHLA Host",
+  "APP_APP_NAME_AR": "رحلة هوست",
+  "APP_LOCAL_LOGO": "assets/images/icon.png"
+}
