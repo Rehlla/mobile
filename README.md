@@ -1,6 +1,13 @@
 # Base Flutter Project
 This project is a starting point for a Flutter application.
 
+## Prerequisites (friend setup)
+- Flutter SDK `>=3.12.0 <4.0.0` (pinned `3.44.7` in `.fvmrc`; easiest is
+  [FVM](https://fvm.app): `fvm install && fvm flutter pub get`).
+- Android SDK for APK builds / Android Studio or VS Code with Flutter ext.
+- `flutter pub get` before the first run (generated `.g.dart`/`.freezed.dart`
+  files are committed, no `build_runner` needed).
+
 ## Getting Started
 
 # the last changes in Base
